@@ -20,6 +20,8 @@
             <tbody>
                 <tr>
                     <th>ID</th>
+                    aaa
+                    
                     <th>商品画像</th>
                     <th>商品名</th>
                     <th>価格</th>
